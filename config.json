@@ -1,0 +1,11 @@
+{
+    "token": "NjI1ODQzMzg3Nzk0MzI1NTE1.XYlcIQ.BewQbFtcpFNQSv9ZbxihLEh4NYA",
+    "prefix": "/",
+    "reportsChannel": "reports",
+    "logsChannel": "logs",
+    
+    "activity": {
+        "streaming": false,
+        "game": "PTC Members"
+      }
+    }
